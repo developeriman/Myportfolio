@@ -39,7 +39,7 @@ const about = () => {
           </div>
       
         
-          <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur commodi nulla mollitia consequuntur. Eius magni quod nam quasi dolorum, vero voluptate nulla architecto ut maiores voluptas ab, reprehenderit aliquid minima? </p>
+          <p> Lorem ipsum dolor sitconsectetur adipisicing elit. Tenetur commodi nulla mollitia consequuntur. Eius magni quod nam quasi dolorum, vero voluptate nulla architecto ut maiores voluptas ab, reprehenderit aliquid minima? </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk </a>
         </div>
      </div>
