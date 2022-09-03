@@ -39,7 +39,7 @@ const about = () => {
           </div>
       
         
-          <p> Lorem ipsum dolor sitconsectetur adipisicing elit. Tenetur commodi nulla mollitia consequuntur. Eius magni quod nam quasi dolorum, vero voluptate nulla architecto ut maiores voluptas ab, reprehenderit aliquid minima? </p>
+          <p>I am an enthusiastic web developer based in Bangladesh, with a rich experience of over 3 years in Web development & Software Development. </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk </a>
         </div>
      </div>

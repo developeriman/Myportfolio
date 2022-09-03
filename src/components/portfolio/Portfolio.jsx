@@ -11,51 +11,50 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'E-commerce project',
-    github: 'https://github.com/imamhossain1/WebsiteDevelopment_laravel',
-    demo:'https://github.com/imamhossain1/WebsiteDevelopment_laravel'
+    title: "Tamma",
+    github: "",
+    demo: "https://taama.ml/",
   },
 
   {
     id: 2,
     image: IMG2,
-    title: 'E-commerce project',
-    github: 'https://github.com/imamhossain1/WebsiteDevelopment_laravel',
-    demo:'https://github.com/imamhossain1/WebsiteDevelopment_laravel'
+    title: "E-commerce project",
+    github: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
+    demo: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
   },
 
   {
     id: 3,
     image: IMG3,
-    title: 'E-commerce project',
-    github: 'https://github.com/imamhossain1/WebsiteDevelopment_laravel',
-    demo:'https://github.com/imamhossain1/WebsiteDevelopment_laravel'
+    title: "E-commerce project",
+    github: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
+    demo: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
   },
 
   {
     id: 4,
     image: IMG4,
-    title: 'E-commerce project',
-    github: 'https://github.com/imamhossain1/WebsiteDevelopment_laravel',
-    demo:'https://github.com/imamhossain1/WebsiteDevelopment_laravel'
+    title: "E-commerce project",
+    github: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
+    demo: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
   },
 
   {
     id: 5,
     image: IMG5,
-    title: 'E-commerce project',
-    github: 'https://github.com/imamhossain1/WebsiteDevelopment_laravel',
-    demo:'https://github.com/imamhossain1/WebsiteDevelopment_laravel'
+    title: "E-commerce project",
+    github: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
+    demo: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
   },
   {
     id: 6,
     image: IMG6,
-    title: 'E-commerce project',
-    github: 'https://github.com/imamhossain1/WebsiteDevelopment_laravel',
-    demo:'https://github.com/imamhossain1/WebsiteDevelopment_laravel'
+    title: "E-commerce project",
+    github: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
+    demo: "https://github.com/imamhossain1/WebsiteDevelopment_laravel",
   },
-  
-]
+];
 
 
 const Portfolio = () => {
